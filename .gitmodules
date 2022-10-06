@@ -1,0 +1,3 @@
+[submodule "themes/neofeed-theme"]
+	path = themes/neofeed-theme
+	url = https://github.com/victoriadrake/neofeed-theme.git
