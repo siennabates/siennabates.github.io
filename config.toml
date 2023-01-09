@@ -1,6 +1,6 @@
 # Your full site URL. Example:
 # "https://<username>.neocities.org/"
-baseURL = "https://siennabates.github.io"
+baseURL = "https://siennabates.com"
 languageCode = "en-us"
 # Title of your site
 title = "~sienna"
@@ -16,7 +16,7 @@ name = "Sienna" # Your online name
 # Your profile image. External link or relative to static/. Examples:
 # "https://imgur.com/123456788"
 # "image/me.webp"
-image = "https://pbs.twimg.com/profile_images/1248324048683180038/D8owxxd0_400x400.jpg"
+image = "img/me.jpg"
 about = "i research security, neat"
 
 [params]
@@ -27,7 +27,7 @@ skin = "macintosh"
 # Totally optional cool stuff (see README for details)
 #
 # socialImage = "static/img/social.png" # site image for rich embeds
-# customCSS = "css/style.css" # relative to ./static/
+customCSS = "css/style.css" # relative to ./static/
 # plausible = true
 # paymentPointer = "$wallet.provider.com/myspecialid123"
 # webmentionUrl = "https://webmention.io/example/webmention"
@@ -38,9 +38,9 @@ skin = "macintosh"
 #
 # For IndieAuth and the author card
 #
-# githubuser = "chihiro"
-# twitteruser = "chihiro" # no @ in front
-# mastodon = "https://mastodon.technology/@chihiro" # full link to your instance profile
+githubuser = "siennabates"
+twitteruser = "scrumdumpster69" # no @ in front
+mastodon = "https://infosec.exchange/@scrumdumpster69" # full link to your instance profile
 
 [permalinks]
 # Format for feed entry links. You probably don't need to change this.
