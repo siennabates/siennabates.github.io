@@ -22,3 +22,15 @@ address.properties > a {
     color: #ff6f9f
 }
 
+body > header > section > div > div:nth-child(2) > nav {
+    display:none;
+}
+
+.header, .header-item>a, .menu__item, #site__name {
+    width: auto !important;
+}
+
+.feed__content:before {
+    content: '■';
+    color: var(--accent) !important;
+}
