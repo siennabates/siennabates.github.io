@@ -1,0 +1,17 @@
+---
+title: "Thotcon 2023"
+date: 2023-05-22T19:28:45-08:00
+draft: false
+tags: ["conferences", "thotcon"]
+#summary: "Thoughts on my recent expereince attending Thotcon in 2023."
+---
+
+This was the second time I have had the opportunity to attend Thotcon which took place May 19-20, 2023. I really enjoyed getting to go again as it is a great opportunity to see some of my friends who live in the Midwest again now that I have moved to California. 
+
+On Thursday we arrived late afternoon after a fairly early morning and we met our friends Aaron and G. We got a late lunch before our friends headed off to the speaker dinner ahead of the conference while we took a short nap. Later that night we met up with some more of our friends at their residence near the conference. It was nice to catch up with people I have not seen in a while. 
+
+Friday was the first day of the conference and we arrived after taking the blue line from the city. It was surprisingly rainy and a bit chilly on the way there. Shortly after arrival we ordered some lunch to be delivered to the venue. There are some catered options but I wanted to get a lot of my favorite foods while I was in the city. We ordered Fry the Coop for some tasty chicken sandwiches before we attended some talks during the afternoon. After the conference we headed back to the hotel for a short nap prior to dinner at Benihana, one of our favorite places to eat with our friends. 
+
+After dinner we headed to the after party which was at the old or original Thotcon location. It was a really neat location with some old school games, and old school cars, and neon signs. I really enjoyed the venue and it was one of the cooler after parties for cons I have been to. There was also TONS of candy for patrons to snack on throughout the night along with a bar of course. 
+
+Saturday was a bit of a shitshow. After we got ready, Aaron stayed behind to write out his questions for Hacker Jeopardy while I bullied G and Dade to attend an other favorite restaurants of mine, Nando’s. Following lunch, we had a rather awful experience getting to the con itself. The conference venue is not really near any hotels, mostly surrounded by residential areas. It is about a 30 minute train ride from the city. This con is one I find to be one of the most exhausting to attend. We got on the blue line, but it stopped half way through as they were doing maintenance so we had to take a bus to a later stop then get back on the train to get to our actual stop. We decided to get a Lyft as that was easier, but turned out to be more time consuming as our driver missed multiple exits and did not seem to notice. By the time we got there we could only see a few talks before we needed to go to Hacker Jeopardy. The categories Aaron came up with for the game show this conference were pretty entertaining. I’ve gotten a bit better in my knowledge in how to answer them, but Dade still blows me out of the water by knowing most the answers. My favorite category was about movies but the most entertaining was the ones where evilmog, cillic, and the craven one acted out skits depicting HTTP status codes. After the closing remarks, Dade and I suffered the awful fate of the public transportation on the way back, took almost an hour and a half to arrive back to the hotel. We had a nice dinner before we headed back to the room to pack up our bags and head to bed before our early flight back Sunday morning.
