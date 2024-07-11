@@ -4,6 +4,27 @@ draft: false
 ---
 
 ## Experience
+
+Mimecast | Customer Success Manager, Enterprise Accounts | January 2024 – Present
+- Manage a portfolio of enterprise level customer accounts, identifying growth opportunities and driving upsell or cross-sell initiatives.
+- Monitor key metrics and indicators of customer health, proactively identifying and addressing any issues or concerns.
+- Collaborate with customers to develop success plans tailored to their specific goals and objectives.
+- Act as the first point of contact for customer inquiries, troubleshooting technical issues, and providing timely resolution.
+- Creation of KPI’s for myself and my team post-acquisition.
+- Worked concurrently on product team to assist with roadmap for remaining features and functionalities that will be implemented into the legacy product.
+- Work concurrently with legacy engineering support team for behavioral data analysis.
+- Ensure potential for scalability and launch activities for integrated product. Served as Project Manager for yearlong engagement and delivered internal and client facing weekly status updates for multiple workstream.
+
+Elevate Security | Enterprise Customer Success Manager | August 2023 – January 2024
+- Guided customers through the onboarding process, ensuring a smooth transition and successful implementation of products or services.
+- Served as the primary advocate for customers, translating and communicating their needs and feedback internally to product, engineering, and leadership teams.
+- Developed and executed retention strategies to minimize churn.
+- Act as the first point of contact for customer inquiries, troubleshooting technical issues, and providing timely resolution.
+- Drive the renewal process by engaging with customers and leadership, showing value-add for our product to their organization, and negotiating contract renewals.
+- Worked concurrently on product team to assist with product roadmap for new features and functionalities.
+- Closed renewal on multiple customers who were likely to churn into multiyear contracts with additional upsell of license count.
+- Utilized my security background with the engineering team to implemented solution which cut down false positive events by 83% for major customer.
+
 Krebs Stamos Group | Security Researcher/Analyst | June 2022 – May 2023
  - Workstream Lead for major critical infrastructure client long-term.
  - Supported Trust and Safety workstream for additional major client.
