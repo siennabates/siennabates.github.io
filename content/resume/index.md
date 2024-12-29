@@ -5,7 +5,10 @@ draft: false
 
 ## Experience
 
-Mimecast | Customer Success Manager, Enterprise Accounts | January 2024 – Present
+Mimecast | Technical Solutions Engineer | Jan 2025 – Present
+- Moving into this role in early 2025, contributions to it TBD
+
+Mimecast | Customer Success Manager, Enterprise Accounts | Jan 2024 – Jan 2025
 - Manage a portfolio of enterprise level customer accounts, identifying growth opportunities and driving upsell or cross-sell initiatives.
 - Monitor key metrics and indicators of customer health, proactively identifying and addressing any issues or concerns.
 - Collaborate with customers to develop success plans tailored to their specific goals and objectives.
@@ -15,7 +18,7 @@ Mimecast | Customer Success Manager, Enterprise Accounts | January 2024 – Pres
 - Work concurrently with legacy engineering support team for behavioral data analysis.
 - Ensure potential for scalability and launch activities for integrated product. Served as Project Manager for yearlong engagement and delivered internal and client facing weekly status updates for multiple workstream.
 
-Elevate Security | Enterprise Customer Success Manager | August 2023 – January 2024
+Elevate Security | Enterprise Customer Success Manager | Aug 2023 – Jan 2024
 - Guided customers through the onboarding process, ensuring a smooth transition and successful implementation of products or services.
 - Served as the primary advocate for customers, translating and communicating their needs and feedback internally to product, engineering, and leadership teams.
 - Developed and executed retention strategies to minimize churn.
@@ -25,23 +28,23 @@ Elevate Security | Enterprise Customer Success Manager | August 2023 – January
 - Closed renewal on multiple customers who were likely to churn into multiyear contracts with additional upsell of license count.
 - Utilized my security background with the engineering team to implemented solution which cut down false positive events by 83% for major customer.
 
-Krebs Stamos Group | Security Researcher/Analyst | June 2022 – May 2023
+Krebs Stamos Group | Security Researcher/Analyst | Jun 2022 – May 2023
  - Workstream Lead for major critical infrastructure client long-term.
  - Supported Trust and Safety workstream for additional major client.
  - Created internal artifacts for project operations.
 
-RSA Anti-Fraud Command Center | Senior Analyst (SOC) | January 2020 – February 2022
+RSA Anti-Fraud Command Center | Senior Analyst (SOC) | Jan 2020 – Feb 2022
  - Identified and researched typo-squatting and potentially suspicious domains and coordinate takedowns
 with registrars and hosting providers worldwide.
  - Researched phishing landing pages and coordinated with service providers to remove pages.
  - Determined fraudulent mobile apps targeting consumers and businesses’ banking details and worked
 with google play.
 
-MKR Forensics LLC | Forensic Consultant/Analyst | August 2019 – July 2022
+MKR Forensics LLC | Forensic Consultant/Analyst | Aug 2019 – July 2022
  - Imaged and analyzed data from mobile devices to assist in criminal investigations.
  - Created detailed reports on data recovery and analysis that could be used in court.
 
-Office of Corporate & Global Partnerships, Purdue University | Project Assistant | December 2018 – August 2019
+Purdue University, OCGP/CyberTAP | Project Assistant | Dec 2018 – Aug 2019
  - Crafted hands-on interactive security labs using multiple learning management systems (LMS) for training technical personnel such as administrators in the field of cybersecurity.
  - Created highly engaging exploitation labs using virtualization technology.
  
@@ -49,7 +52,7 @@ GenCyber Purdue | Student Mentor | June 2018
  - Charged with developing and coordinating a cybersecurity camp aimed at high school women interested in STEM, delivered to 40 participants.
  - Instructed students on concepts consisting of Programming (Python and HTML), Cybersecurity and Penetration Testing, and Cryptography.
  
-Indiana University Tech Shop | Tier 1 Support Specialist | June 2017 – January 2018 
+Indiana University Tech Shop | Tier 1 Support Specialist | June 2017 – Jan 2018 
  - Served as the subject matter expert for all electronics available for sale at the store and provided technical support for Apple iOS products.
  - Aided customers with acquisition of personal and commercial products based on need.
 
