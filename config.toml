@@ -6,12 +6,13 @@ languageCode = "en-us"
 title = "~sienna"
 theme = "neofeed-theme"
 # How many feed entries to load at once
-paginate = 6
+[pagination]
+  pagerSize = 6
 
 [taxonomies]
 tag = "tags"
 
-[author]
+[params.author]
 name = "Sienna" # Your online name
 # Your profile image. External link or relative to static/. Examples:
 # "https://imgur.com/123456788"

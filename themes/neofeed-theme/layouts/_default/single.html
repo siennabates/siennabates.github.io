@@ -9,14 +9,14 @@
                     <div class="flex properties__row ">
                         <!--<div rel="author" class="flex left p-author h-card">
                             <img class="u-photo"
-                                src="{{ with $.Site.Author.image }}{{ . | absURL }}{{ else }}https://picsum.photos/120.webp{{ end }}"
-                                alt="{{.Site.Author.name}}" id="author-img">
+                                src="{{ with $.Site.Params.Author.image }}{{ . | absURL }}{{ else }}https://picsum.photos/120.webp{{ end }}"
+                                alt="{{.Site.Params.Author.name}}" id="author-img">
                             <div>
                                 <p rel="me" class="p-name" id="author-name">
                                     {{ with .Params.author }}
                                     {{ . }}
                                     {{ else }}
-                                    {{ $.Site.Author.name }}
+                                    {{ $.Site.Params.Author.name }}
                                     {{ end }}
                                 </p>
                                 <p class="properties">
@@ -73,7 +73,7 @@
                             </article>
                             {{ partial "properties" . }}
                 </div>
-                {{ partial "webmentions" . }}
+                {{/* partial "webmentions" . */}}
                 <!-- show Webmentions -->
                 <div id="webmentions"></div>
             </li>
