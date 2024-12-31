@@ -55,6 +55,10 @@ mastodon = "https://infosec.exchange/@scrumdumpster69" # full link to your insta
     name = "Publications"
     url = "publications/"
   [[menu.main]]
+    identifier = "presentations"
+    name = "Presentations"
+    url = "presentations/"
+  [[menu.main]]
     identifier = "research"
     name = "Research"
     url = "research/"
