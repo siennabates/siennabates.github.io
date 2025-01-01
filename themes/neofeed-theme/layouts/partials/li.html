@@ -1,7 +1,7 @@
 <!-- feed h-entry: https://microformats.org/wiki/h-entry -->
 <li class="feed__li h-entry">
   <div class="feed__content">
-    <div class="flex properties__row ">
+    <div class="flex properties__row" style="min-height: 0; height:0;">
       <div class="flex left properties">
         <a rel="author" class="p-author h-card hidden" href="{{ .Site.BaseURL }}">{{ .Site.Params.Author.name }}</a>
       </div>
@@ -18,13 +18,6 @@
         </a>
         {{ end }}
         {{ end }}
-        <a class="icon u-url" href="{{ .Permalink }}">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-            class="feather feather-bookmark">
-            <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
-          </svg>
-        </a>
       </div>
     </div>
 
@@ -43,7 +36,15 @@
         <article class="md p-summary e-content">
           <h2 class="p-name">
             <a class="u-url" href="{{ .Permalink }}">{{ .Title }}</a>
+            <a style="float: right;" class="icon u-url" href="{{.Permalink}}">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                    stroke-linejoin="round" class="feather feather-bookmark">
+                    <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+                </svg>
+            </a>
           </h2>
+
       {{ end }}
           {{ with .Params.FeaturedImage }}
           <img src="{{ $.Params.FeaturedImage }}" />
