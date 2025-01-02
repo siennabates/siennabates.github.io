@@ -18,7 +18,7 @@ name = "Sienna" # Your online name
 # "https://imgur.com/123456788"
 # "image/me.webp"
 image = "img/me2.jpg"
-about = "i research security, neat"
+about = "security and privacy enthusiast, researcher, AMC A-lister"
 
 [params]
 # Name of a file in static/skins/ without the ".css" extension
