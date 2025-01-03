@@ -78,9 +78,9 @@ B.S. Purdue University | West Lafayette, IN	| May 2020
 - CISSP, ISC2 (Expected late 2023)
 
 ## Volunteering
-- Defcon (2023)
-- Bsides SF (2023)
-- Blue Team Con (2021, 2023)
+- Defcon (2023, 2024)
+- Bsides SF (2023, 2024)
+- Blue Team Con (2021)
 - Grrcon (2021)
 
 ## Publications
