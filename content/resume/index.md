@@ -75,7 +75,7 @@ B.S. Purdue University | West Lafayette, IN	| May 2020
 - Security+, CompTIA (2023)
 - Certified Ethical Hacker (CEH), EcCouncil (2021)
 - Google Cybersecurity Certification, Google/Coursera (Expected 2023)
-- CISSP, ISC2 (Expected late 2023)
+
 
 ## Volunteering
 - Defcon (2023, 2024)
