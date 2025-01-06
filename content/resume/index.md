@@ -6,7 +6,7 @@ draft: false
 ## Experience
 
 Mimecast | Technical Solutions Engineer | Jan 2025 – Present
-- Moving into this role in early 2025, contributions to it TBD
+- Moved into this role in early 2025, contributions to it TBD
 
 Mimecast | Customer Success Manager, Enterprise Accounts | Jan 2024 – Jan 2025
 - Manage a portfolio of enterprise level customer accounts, identifying growth opportunities and driving upsell or cross-sell initiatives.
@@ -65,16 +65,25 @@ B.S. Purdue University | West Lafayette, IN	| May 2020
  - Bachelor of Science in Cyber Security
 
 ## Skills
+- Languages: Python (Beginner proficiency)
+- Cloud: AWS
+- CRM: Salesforce, Gainsight
+- Databases: Django, SQL, MongoDB, Splunk
+- Software: Jira, Confluence, Gong, Slack, Teams, Google
+- Statistical Software: LaTex
+- LMS: Canvas, Blackboard, Brightspace
+<!--This is a comment
 - Networks: Wireshark 
 - Penetration Testing: Kali Linux tools such as Metasploit
 - Programming: Python, C, C#, SQL, HTML
-- Modeling: Visual Paradigm (v. 13.2)     
+- Modeling: Visual Paradigm (v. 13.2)   
+-->    
 
 
 ## Certifications
 - Security+, CompTIA (2023)
 - Certified Ethical Hacker (CEH), EcCouncil (2021)
-- Google Cybersecurity Certification, Google/Coursera (Expected 2023)
+- Google Cybersecurity Certification, Google/Coursera (2023)
 
 
 ## Volunteering
