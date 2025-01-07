@@ -50,18 +50,22 @@ mastodon = "https://infosec.exchange/@scrumdumpster69" # full link to your insta
     identifier = "blog"
     name = "Blog"
     url = "blog/"
+    weight = 1
   [[menu.main]]
     identifier = "publications"
     name = "Publications"
     url = "publications/"
+    weight = 6
   [[menu.main]]
     identifier = "presentations"
     name = "Presentations"
     url = "presentations/"
+    weight = 3
   [[menu.main]]
     identifier = "research"
     name = "Research"
     url = "research/"
+    weight = 5
 #  [[menu.main]]
 #    identifier = "fashion"
 #    name = "Fashion"
@@ -70,18 +74,22 @@ mastodon = "https://infosec.exchange/@scrumdumpster69" # full link to your insta
     identifier = "resume"
     name = "Resume"
     url = "resume/"
+    weight = 2
   [[menu.main]]
     identifier = "academic_cv"
     name = "Academic CV"
     url = "academic_cv/"
+    weight = 7
   [[menu.main]]
     identifier = "certifications"
     name = "Certifications"
     url = "certifications/"
+    weight = 4
   [[menu.main]]
-    identifier = "Xrta"
-    name = "Xrta"
-    url = "Xrta/"
+    identifier = "Xtra"
+    name = "Xtra"
+    url = "Xtra/"
+    weight = 8
 
 
 [permalinks]
