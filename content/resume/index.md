@@ -81,9 +81,10 @@ B.S. Purdue University | West Lafayette, IN	| May 2020
 
 
 ## Certifications
+- Google Cybersecurity Certification, Google/Coursera (2023)
 - Security+, CompTIA (2023)
 - Certified Ethical Hacker (CEH), EcCouncil (2021)
-- Google Cybersecurity Certification, Google/Coursera (2023)
+
 
 
 ## Volunteering
