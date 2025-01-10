@@ -65,7 +65,7 @@ B.S. Purdue University | West Lafayette, IN	| May 2020
  - Bachelor of Science in Cyber Security
 
 ## Skills
-- Languages: Python (Beginner proficiency)
+- Languages: Python (Beginner proficiency), HTML
 - Cloud: AWS
 - CRM: Salesforce, Gainsight
 - Databases: Django, SQL, MongoDB, Splunk
