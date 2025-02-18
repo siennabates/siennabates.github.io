@@ -8,4 +8,4 @@ Welcome to my non technical interests section! This section is meant to highligh
 
 ## Movies
 
-[AMC 2024](/xtra/amc/amc2024/)
+[AMC 2024]({{<ref "/xtra/amc/2024/index.md">}})
