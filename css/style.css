@@ -1,4 +1,4 @@
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
     :root {
         --accent: #845ec8 !important;
         --color-bg: linear-gradient(0deg, #845ec8 20%, #24292e) !important;
@@ -11,7 +11,7 @@
       /* #site__name, #logo:before {
         color: #f9f87f !important;
     } */
-}
+} */
 
 /* color-scheme-agnostic overrides */
 address.properties > a {
