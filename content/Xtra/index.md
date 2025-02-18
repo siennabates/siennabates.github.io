@@ -5,3 +5,7 @@ draft: false
 #summary: "Welcome to my non technical interests section! This section is meant to highlight other things I care about that are not necessarily related to my profession or academics. Please enjoy:)"
 ---
 Welcome to my non technical interests section! This section is meant to highlight other things I care about that are not necessarily related to my profession or academics. Please enjoy:)
+
+## Movies
+
+[AMC 2024](/xtra/amc/amc2024/)

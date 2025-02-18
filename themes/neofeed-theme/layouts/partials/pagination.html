@@ -5,14 +5,14 @@
         <li class="pag__item flex left">
             {{ if $pag.HasPrev }}
             <a href="{{ $pag.Prev.URL }}" class="pag__link" aria-label="Previous">
-                <span aria-hidden="true">&prec; newer</span>
+                <span aria-hidden="true" style="color: white;">&prec; newer</span>
             </a>
             {{ end }}
         </li>
         <li class="pag__item flex right">
             {{ if $pag.HasNext }}
             <a href="{{ $pag.Next.URL }}" class="pag__link" aria-label="Next">
-                <span aria-hidden="true">older &succ;</span>
+                <span aria-hidden="true" style="color: white;">older &succ;</span>
             </a>
             {{ end }}
         </li>

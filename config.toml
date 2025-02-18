@@ -88,7 +88,7 @@ mastodon = "https://infosec.exchange/@scrumdumpster69" # full link to your insta
   [[menu.main]]
     identifier = "Xtra"
     name = "Xtra"
-    url = "Xtra/"
+    url = "xtra/"
     weight = 8
 
 
